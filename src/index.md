@@ -1,7 +1,7 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "WA"
   title:
     firstPara: "We’re a Design Studio"
     secondPara: "That Believes In Great Ideas"
